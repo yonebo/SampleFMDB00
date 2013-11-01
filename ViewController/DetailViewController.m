@@ -31,6 +31,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    
 	name.text = artist.name;
     genre.text = artist.genre;
     origin.text = artist.origin;

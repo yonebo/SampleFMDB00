@@ -45,9 +45,9 @@
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <subviews>
                             <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ES5-fL-vtr">
-                                <rect key="frame" x="33" y="107" width="177" height="51"/>
+                                <rect key="frame" x="20" y="80" width="177" height="51"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="42"/>
                                 <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
@@ -98,10 +98,10 @@
                     </view>
                     <navigationItem key="navigationItem" id="Zf7-vo-UwJ"/>
                     <connections>
-                        <outlet property="genre" destination="DLB-Ww-hfz" id="1W7-W0-N75"/>
-                        <outlet property="name" destination="ES5-fL-vtr" id="bsB-Ak-JAb"/>
-                        <outlet property="origin" destination="l7i-Oe-mai" id="nQo-6l-JS1"/>
-                        <outlet property="yearsActive" destination="rv0-Ez-HLT" id="T7f-v5-evJ"/>
+                        <outlet property="genre" destination="DLB-Ww-hfz" id="wjk-wU-75O"/>
+                        <outlet property="name" destination="ES5-fL-vtr" id="WOn-wY-bom"/>
+                        <outlet property="origin" destination="l7i-Oe-mai" id="MzU-fF-OD7"/>
+                        <outlet property="yearsActive" destination="rv0-Ez-HLT" id="hk7-43-J4f"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="OVx-6b-UgT" userLabel="First Responder" sceneMemberID="firstResponder"/>
